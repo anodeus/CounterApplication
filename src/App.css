@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-size:4rem;
 }
 
 .App-logo {
@@ -36,3 +37,18 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  font-size:3rem;
+  border-radius: 5%;
+  border: none;
+  margin: 4%;
+  padding: 2%;
+  background-color:rgb(111, 111, 39);
+  opacity:45%;
+  }
+
+button:hover {
+  font-size:3.1rem;
+  opacity: 100%;
+  }
